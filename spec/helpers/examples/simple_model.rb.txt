@@ -1,0 +1,11 @@
+class SimpleModel
+
+  include DataMapper::Resource
+
+  property :id, Serial
+
+  property :name, String
+
+  predefine :x, :name => 'X'
+
+end

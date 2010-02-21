@@ -1,0 +1,11 @@
+class BadModel
+
+  include DataMapper::Resource
+
+  property :id, Serial
+
+  property :name, String
+
+  predefine = predefine.to_s.to_sym
+
+end
