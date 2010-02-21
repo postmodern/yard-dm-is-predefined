@@ -28,7 +28,6 @@ Gem::Specification.new do |s|
     "VERSION",
     "lib/yard-dm-predefined.rb",
     "lib/yard-dm-predefined/legacy.rb",
-    "lib/yard-dm-predefined/legacy/parameter_handler.rb",
     "lib/yard-dm-predefined/legacy/predefine_handler.rb",
     "lib/yard-dm-predefined/predefine_handler.rb",
     "spec/helpers/examples.rb",
