@@ -5,6 +5,7 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "yard-dm-predefined"
+    gem.license = 'MIT'
     gem.summary = %Q{A plugin for YARD for parsing dm-predefined methods.}
     gem.description = %Q{yard-dm-predefined is a plugin for YARD for parsing dm-predefined methods.}
     gem.email = "postmodern.mod3@gmail.com"
