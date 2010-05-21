@@ -9,7 +9,7 @@ begin
     gem.summary = %Q{A plugin for YARD for parsing dm-predefined methods.}
     gem.description = %Q{yard-dm-predefined is a plugin for YARD for parsing dm-predefined methods.}
     gem.email = "postmodern.mod3@gmail.com"
-    gem.homepage = "http://github.com/postmodern/yard-dm-predefined"
+    gem.homepage = "http://github.com/postmodern/yard-dm-is-predefined"
     gem.authors = ["postmodern"]
     gem.add_dependency "yard", ">= 0.4.0"
     gem.add_development_dependency "rspec", ">= 1.3.0"

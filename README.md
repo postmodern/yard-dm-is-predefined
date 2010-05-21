@@ -1,7 +1,7 @@
 # yard-dm-is-predefined
 
-* [github.com/postmodern/yard-dm-predefined](http://github.com/postmodern/yard-dm-predefined)
-* [github.com/postmodern/yard-dm-predefined/issues](http://github.com/postmodern/yard-dm-predefined/issues)
+* [github.com/postmodern/yard-dm-is-predefined](http://github.com/postmodern/yard-dm-is-predefined)
+* [github.com/postmodern/yard-dm-is-predefined/issues](http://github.com/postmodern/yard-dm-is-predefined/issues)
 
 ## Description
 

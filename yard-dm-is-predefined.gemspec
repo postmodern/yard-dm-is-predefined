@@ -38,7 +38,7 @@ Gem::Specification.new do |s|
      "yard-dm-is-predefined.gemspec"
   ]
   s.has_rdoc = %q{yard}
-  s.homepage = %q{http://github.com/postmodern/yard-dm-predefined}
+  s.homepage = %q{http://github.com/postmodern/yard-dm-is-predefined}
   s.licenses = ["MIT"]
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
