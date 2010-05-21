@@ -1,11 +1,11 @@
-# yard-dm-predefined
+# yard-dm-is-predefined
 
 * [github.com/postmodern/yard-dm-predefined](http://github.com/postmodern/yard-dm-predefined)
 * [github.com/postmodern/yard-dm-predefined/issues](http://github.com/postmodern/yard-dm-predefined/issues)
 
 ## Description
 
-yard-dm-predefined is a plugin for YARD for parsing
+yard-dm-is-predefined is a plugin for YARD for parsing
 [dm-predefined](http://dm-predefined.rubyforge.org) methods.
 
 ## Features
@@ -18,7 +18,7 @@ yard-dm-predefined is a plugin for YARD for parsing
 
 ## Install
 
-    $ sudo gem install yard-dm-predefined
+    $ sudo gem install yard-dm-is-predefined
 
 ## Note on Patches/Pull Requests
  
