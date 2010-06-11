@@ -1,1 +1,1 @@
-require 'yard-dm-predefined/legacy/predefine_handler'
+require 'yard-dm-is-predefined/legacy/predefine_handler'

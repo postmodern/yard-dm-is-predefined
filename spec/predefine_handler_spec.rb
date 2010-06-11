@@ -1,8 +1,8 @@
 require 'spec_helper'
 require 'helpers/examples'
 
-require 'yard-dm-predefined/predefine_handler'
-require 'yard-dm-predefined/legacy/predefine_handler'
+require 'yard-dm-is-predefined/predefine_handler'
+require 'yard-dm-is-predefined/legacy/predefine_handler'
 
 describe "PredefineHandler" do
   include Helpers::Examples
