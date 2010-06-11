@@ -6,7 +6,7 @@
 ## Description
 
 yard-dm-is-predefined is a plugin for YARD for parsing
-[dm-predefined](http://dm-predefined.rubyforge.org) methods.
+[dm-is-predefined](http://github.com/postmodern/dm-is-predefined) methods.
 
 ## Features
 
